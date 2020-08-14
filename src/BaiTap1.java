@@ -19,3 +19,4 @@ public class BaiTap1 {
 		luuSoNhap(scan, listSo);
 	}
 };
+"hehehe Cố tình để conflict nè ku "
